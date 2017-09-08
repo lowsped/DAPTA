@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ABSEN GTK</string>
+    <string name="title_activity_sub">subActivity</string>
+    <string name="title_activity_profile">profile</string>
+    <string name="title_activity_nilai">nilai</string>
+    <string name="title_activity_latihan">latihan</string>
+    <string name="title_activity_hasil">hasil</string>
+    <string name="title_activity_web">web</string>
+    <string name="action_settings">about</string>
+    <string name="more">more aps</string>
+    <string name="about">"Thank's To:\n" \n" " Allah S.W.T \n" "My   Family\n" "Google.inc\n" "And\n" "all you have been using my application\n"
+    \n" "Copyright@2017\n" "PEMIKIR VERSI BARU\n"
+    </string>
+    <string name="banner_ad_unit_id">ca-app-pub-1142409875326374/9784130840</string>
+    <string name="title_activity_website">website</string>
+    <string name="full">Full Screen Website</string>
+</resources>
